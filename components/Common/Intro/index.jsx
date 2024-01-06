@@ -7,8 +7,8 @@ import Location from './Location';
 import Tools from './Tools';
 import Skills from './Skills';
 import Image from 'next/image';
-import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
-import Arif from '../../../public/images/arif.jpg';
+import { DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
+import Arif from '../../../public/images/arif.png';
 
 const Intro = () => {
   return (
