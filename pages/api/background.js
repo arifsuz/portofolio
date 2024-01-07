@@ -6,7 +6,7 @@ const background = [
                 title: 'Mercu Buana University',
                 degree: 'BS, Informatics Engineering',
                 detail: "Bachelor's Degree in Informatics Engineering from Mercu Buana University.",
-                year: '2023'
+                year: '2023 - Present'
             },
             {
                 id: 1,
