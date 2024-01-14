@@ -25,7 +25,7 @@ const background = [
                 role: 'CTO',
                 url: 'no website',
                 desc: "I created a group for a competition to build a start up Gorden Loket and I am the CTO",
-                year: '06/2023',
+                year: '06/2023 - 08/2023',
                 location: 'Bandung, Indonesia'
             },
             {
@@ -34,7 +34,7 @@ const background = [
                 role: 'CTO',
                 url: 'https://www.instagram.com/gordenloket/',
                 desc: 'As a ui/ux designer and frontend designer developer, I use Figma to create UI/UX and React, Next & JavaScript to build user interfaces for web applications.',
-                year: '06/2023',
+                year: '06/2023 - 08/2023',
                 location: 'Bandung, Indonesia'
             },
             {
@@ -42,7 +42,7 @@ const background = [
                 title: 'JNE Express',
                 role: 'Junior IT Support',
                 url: 'no website',
-                desc: 'I work part time as IT Support at J&T Express, I work on network and device maintenance at the package delivery office.',
+                desc: 'I work part time as IT Support at JNE Express, I work on network and device maintenance at the package delivery office.',
                 year: '01/2022 - 05/2022',
                 location: 'Tangerang, Indonesia'
             },
