@@ -42,7 +42,7 @@ const Contact = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+62 821-8065-6967</span>
+                                <span className='text-LightGray text-sm'>+62 815-1112-0668</span>
                             </div>
                         </div>
                     </div>
