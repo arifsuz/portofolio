@@ -48,7 +48,7 @@ export const TECH_STACK = [
 
 export const CONTACTS = {
   EMAIL: 'muh892004@gmail.com',
-  PHONE: '+6282180656967',
+  PHONE: '+6281511120668',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/arifsuz',
