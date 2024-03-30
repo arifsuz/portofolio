@@ -23,7 +23,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "JAVCO Population Data Collection",
-        url: "https://github.com/arifsuz/javco-pendataan-penduduk/tree/main",
+        url: "https://github.com/arifsuz/Pendataan-Penduduk.git",
         image: "projects/javco-pendataan-penduduk.png",
         projectDetail: "Javco Population Data Collection is a population data collection website created to complete Big Assignment 1, in the Database Systems Course Semester 1.",
         technologiesUsed: [
