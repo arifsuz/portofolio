@@ -2,7 +2,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Profile Of Legal Institutions",
-        url: "https://http://lawfirmtspppolri.com/",
+        url: "https://lawfirmtspppolri.com/",
         image: "projects/lawfirm.png",
         projectDetail: "This website was created using Wordpress according to my client's request because he wanted a website that was stable, good, fast, and easy to maintenance.",
         technologiesUsed: [
