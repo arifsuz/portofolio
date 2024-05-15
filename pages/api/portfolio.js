@@ -1,6 +1,48 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "Profile Of Legal Institutions",
+        url: "https://http://lawfirmtspppolri.com/",
+        image: "projects/lawfirm.png",
+        projectDetail: "This website was created using Wordpress according to my client's request because he wanted a website that was stable, good, fast, and easy to maintenance.",
+        technologiesUsed: [
+            {
+                tech: "WordPress"
+            },
+            {
+                tech: "PHP"
+            },
+            {
+                tech: "MySQL"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Program Caesar Chiper",
+        url: "hhttps://github.com/Pemrograman-Lanjut",
+        image: "projects/caesarchiper.png",
+        projectDetail: "We formed this organization to create a Caesar Chiper Program to fulfill the Advanced Programming course assignment taught by Mr. Wawan Gunawan, S.Kom, MT as the lecturer.",
+        technologiesUsed: [
+            {
+                tech: "Java"
+            },
+            {
+                tech: "Python"
+            },
+            {
+                tech: "JavaSCript"
+            },
+            {
+                tech: "CSS"
+            },
+            {
+                tech: "HTML"
+            },
+        ]
+    },
+    {
+        id: 0,
         projectName: "JAVCO Store",
         url: "https://github.com/arifsuz/javcostore",
         image: "projects/javcostore.png",

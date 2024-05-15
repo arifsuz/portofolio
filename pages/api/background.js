@@ -21,6 +21,15 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'Law Firm Tetap Setia PP POLRI',
+                role: 'Fullstack Developer',
+                url: 'https://lawfirmtspppolri.com/',
+                desc: "I was offered to create a profile website of a legal institution called Law Firm Tetap Setia PP POLRI and was offered as a Fullstack Developer and was given the trust to manage their website and was paid per month.",
+                year: '02/2024 - Present',
+                location: 'Jakarta, Indonesia'
+            },
+            {
+                id: 2,
                 title: 'Syncminds, co. Ltd',
                 role: 'CTO',
                 url: 'no website',
@@ -29,7 +38,7 @@ const background = [
                 location: 'Bandung, Indonesia'
             },
             {
-                id: 2,
+                id: 3,
                 title: 'GordenLoket Startup',
                 role: 'CTO',
                 url: 'https://www.instagram.com/gordenloket/',
@@ -38,7 +47,7 @@ const background = [
                 location: 'Bandung, Indonesia'
             },
             {
-                id: 3,
+                id: 4,
                 title: 'JNE Express',
                 role: 'Junior IT Support',
                 url: 'no website',

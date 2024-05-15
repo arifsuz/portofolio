@@ -9,16 +9,12 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
+    title: 'Fullstack Developer',
+    level: '98%',
+  },
+  {
     title: 'IT Support',
     level: '95%',
-  },
-  {
-    title: 'Frontend Developer',
-    level: '90%',
-  },
-  {
-    title: 'Backend Developer',
-    level: '65%',
   },
   {
     title: 'UI Designer',
@@ -27,31 +23,30 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
-  'ReactJS',
   'JavaScript',
+  'ReactJS',
   'NextJS',
-  'TypeScript',
   'NodeJS',
+  'TypeScript',
   'CSS',
   'SCSS',
   'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
+  'PHP',
+  'WordPress',
   'REST API',
   'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
   'Figma',
+  'Cisco Packet Tracer',
 ];
 
 export const CONTACTS = {
   EMAIL: 'muh892004@gmail.com',
-  PHONE: '+6281511120668',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/arifsuz',
+  GITHUB: 'https://github.com/arifsuz/',
   LINKEDIN: 'https://www.linkedin.com/in/marif8/',
   INSTAGRAM: 'https://instagram.com/arifsuz',
   FACEBOOK: 'https://www.facebook.com/M.Arif8924/',
