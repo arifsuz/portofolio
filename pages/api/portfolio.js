@@ -20,7 +20,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Program Caesar Chiper",
-        url: "hhttps://github.com/Pemrograman-Lanjut",
+        url: "https://github.com/Pemrograman-Lanjut",
         image: "projects/caesarchiper.png",
         projectDetail: "We formed this organization to create a Caesar Chiper Program to fulfill the Advanced Programming course assignment taught by Mr. Wawan Gunawan, S.Kom, MT as the lecturer.",
         technologiesUsed: [
