@@ -85,8 +85,17 @@ const portfolio = [
     },
     {
         id: 0,
+        projectName: "Application Development Techniques using Javascript and Node.js",
+        url: "https://drive.google.com/file/d/1fBddOnbvNwO1IVHeIa_0n4SuthX8r_l4/view?usp=sharing",
+        image: "certificate/js-course-net.jpg",
+        projectDetail: "Successfully completed training on Course-Net with the 2020 Ministry of Industry competency scheme, namely: J.620100.010.01 - Apply Text-Based Programming Language Execution Commands, Graphics, and Multimedia | J.620100.005.02 - Implement User Interface | J.620100.017.02 - Implement Structured Programming | J.620100.015.01 - Organize Functions, Files or Other Programming Resources in a Neat Organization in a Neat Organization.",
+        technologiesUsed: [
+        ]
+    },
+    {
+        id: 0,
         projectName: "Inco Academy Work In Tech",
-        url: "https://drive.google.com/file/d/1yu27e5ijRk9mn8AqxVCIRN8J1_mivNIy/view?usp=sharing",
+        url: "https://drive.google.com/file/d/1btT2j_XhM6JIPv65RQWoXlZElOc2O6JJ/view?usp=drive_link",
         image: "certificate/sertif-inco-academy.jpg",
         projectDetail: "Won first place in the competition to create a startup project, and I and members of Syncminds,co.Ltd created an application called Gorden Loket.",
         technologiesUsed: [
